@@ -91,3 +91,14 @@ python -m uvicorn app.main:app --reload
 - Advanced ML models
 - Database logging
 - Dashboard analytics
+
+## Screenshots
+
+### API Documentation
+![Swagger Docs](assets/swagger.png)
+
+### Request Example
+![Request](assets/request.png)
+
+### Prediction Response
+![Response](assets/response.png)
